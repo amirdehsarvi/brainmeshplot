@@ -186,3 +186,4 @@ waddingtonPlot <- function(branches = c(1,2,4),
     print(p)
   }
 }
+

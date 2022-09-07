@@ -136,6 +136,7 @@ dmypy.json
 .pyre/
 
 .DS_Store
+.asv
 /meshCanopy/spm12
 /Logs
 .jpg

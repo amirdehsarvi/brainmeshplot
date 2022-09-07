@@ -136,8 +136,9 @@ dmypy.json
 .pyre/
 
 .DS_Store
-/Scripts/spm12
+/meshCanopy/spm12
 /Logs
 .jpg
 .png
+.mov
 
